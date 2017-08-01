@@ -1,0 +1,21 @@
+  /* * {
+      border: 2px solid red;
+  } */
+  
+  body {
+      background-color: #b5c12c;
+      padding-top: 30px;
+  }
+  
+  p {
+      color: white;
+  }
+  
+  ul {
+      padding-top: 25px;
+      list-style: none;
+  }
+  
+  li a {
+      font-size: 25px;
+  }
